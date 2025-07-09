@@ -42,7 +42,7 @@ python train.py
 
 ### ✅ Training Loss Over Time
 
-![Training Loss](https://github.com/R2RyAn/BodyFatPredictor/blob/master/test.png)
+![Training Loss](https://github.com/R2RyAn/BodyFatPredictor/blob/master/loss%20over%20time.png)
 
 ### ✅ True vs Predicted Body Fat %
 
